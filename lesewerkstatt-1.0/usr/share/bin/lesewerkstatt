@@ -1,1 +1,2 @@
-wine /usr/share/prop/lesewerkstatt/Lesewerkstatt.exe
+cd /usr/share/prop/lesewerkstatt/
+wine Lesewerkstatt.exe
