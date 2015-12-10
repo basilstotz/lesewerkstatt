@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lesewerkstatt
+Exec=/usr/share/bin/lesewerkstatt
+Icon=lesewerkstatt.png
+Type=Application
+Categories=Education
+Keywords="sprachen deutsch z1  lesen hören"
+
